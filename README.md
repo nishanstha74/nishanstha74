@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @nishanstha74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @nishanstha74
+
+## About Me
+I am an aspiring Data Science, Machine Learning, and Artificial Intelligence enthusiast focused on building practical, 
+data-driven solutions. I enjoy learning how intelligent systems work and how data can be used to solve real-world problems.
+
+## Current Focus
+- 📊 Data Structures & Algorithms (DSA)
+- 🤖 Machine Learning (ML)
+- 🧠 Artificial Intelligence (AI)
+- 🐍 Python for Data Science
+
+## Interests
+- Data Analysis & Visualization
+- Machine Learning Models
+- Artificial Intelligence Applications
+- Problem Solving & Algorithms
+- Building real-world projects
+
+## Collaboration
+I am open to collaborating on beginner-friendly Data Science, Machine Learning, and AI projects, especially those involving Python and real datasets.
+
+## Contact
+- 📫 Email: nishan.shrestha060@gmail.com
+
+
+## Fun Fact
+I enjoy breaking down complex problems into simple steps and learning by building projects.
 
 <!---
-nishanstha74/nishanstha74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+nishanstha74/nishanstha74 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
