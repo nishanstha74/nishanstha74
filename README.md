@@ -21,7 +21,7 @@ data-driven solutions. I enjoy learning how intelligent systems work and how dat
 I am open to collaborating on beginner-friendly Data Science, Machine Learning, and AI projects, especially those involving Python and real datasets.
 
 ## Contact
-- 📫 Email: nishan.shrestha060@gmail.com
+- 📫 Email: shrestha.nishan060@gmail.com
 
 
 ## Fun Fact
