@@ -22,8 +22,7 @@ I am open to collaborating on beginner-friendly Data Science, Machine Learning, 
 
 ## Contact
 - 📫 Email: shrestha.nishan060@gmail.com
-- LinkedIn : linkedin.com/in/nishan-shrestha-9a9412282
-
+- 💼 LinkedIn: https://www.linkedin.com/in/nishan-shrestha-9a9412282/
 
 ## Fun Fact
 I enjoy breaking down complex problems into simple steps and learning by building projects.
